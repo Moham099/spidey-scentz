@@ -1,5 +1,8 @@
+import Home from './pages/Home';
+import Landing from './pages/Landing'
+
 const App = () => {
-    return <div>Hello world!</div>;
-  };
-  
-  export default App;
+  return <Landing/>
+};
+
+export default App;
