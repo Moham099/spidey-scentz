@@ -9,6 +9,7 @@ color: white;
 display: flex;
 align-items: center;
 justify-content: center;
+
 font-size: 14px;
 font-weight: bold;
 `
