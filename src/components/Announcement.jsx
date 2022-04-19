@@ -9,9 +9,9 @@ color: white;
 display: flex;
 align-items: center;
 justify-content: center;
-font-size: 16px;
+
+font-size: 14px;
 font-weight: bold;
-letter-spacing: 1px;
 `
 
 
